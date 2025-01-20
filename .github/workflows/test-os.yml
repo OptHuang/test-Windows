@@ -2,7 +2,7 @@ name: Test OS
 
 on:
   push:
-    branches: [matlab]
+    branches: [ main ]
 
 jobs:
 
